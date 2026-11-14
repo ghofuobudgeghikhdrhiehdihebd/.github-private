@@ -8,4 +8,4 @@
   - Fork the Raspbian to build AirLockOS.
   - Raspbian kiosk to run AI over cloud.
   - Serial comm for pc-driver.
-  - Polishing the pc-interface.
+  - Polishing the pc-interface. (DONE - Amanda)
