@@ -7,5 +7,5 @@
   ### To Do
   - Fork the Raspbian to build AirLockOS.
   - Raspbian kiosk to run AI over cloud.
-  - Serial comm for pc-driver.
+  - Serial comm for pc-driver. (IN PROGRESS - Amanda. The Go HTTP server is responding to requests independently of the physical AirLock connection. We just need to connect the physical hardware)
   - Polishing the pc-interface. (DONE - Amanda)
