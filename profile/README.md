@@ -1,5 +1,7 @@
 ## Tentative project name: Airlock 
-A physical button that the user presses to approve/deny AI agentic requests to the user's local computer's MCP server, which then executes those requests. Categories: Cybersecurity, AI Agents, Hardware, Low-Level Computing, Cloud, Blockchain
+A physical button that the user presses to approve/deny AI agentic requests to the user's local computer's MCP server, which then executes those requests. 
+## Categories: 
+Cybersecurity, AI Agents, Hardware, Low-Level Computing, Cloud, Blockchain
 
 ## READ BEFORE YOU CONTINUE!
 
